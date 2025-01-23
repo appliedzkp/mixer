@@ -240,7 +240,7 @@ npm run screen-semaphore
 Or in annother terminal launch a HTTP server to serve the zk-SNARK content:
 ```bash
 # Assuming you are in mixer/
-npm run semahpore
+npm run semaphore
 ```
 
 #### Run the frontend
